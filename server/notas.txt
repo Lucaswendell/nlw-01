@@ -1,0 +1,10 @@
+NextWeek
+Stack: express, node, sqlite, knex, ts-node, ts-node-dev, typescripts
+
+
+Dia 2
+    resquest params -> paramentros passados na propria rota /users/:param | request.params.param
+    request query -> paramentros opcionais /users/?param=value | request.query.param
+    Request body -> Parâmetros para criação e atualização de dados
+    
+    
